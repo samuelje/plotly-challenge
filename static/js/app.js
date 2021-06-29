@@ -100,12 +100,12 @@ function plotCharts(id) {
 
         });
 
-        // slice and reverse the arrays to get the top 10 values, labels and IDs
+        // Slice and reverse the arrays to get the top 10 values, labels, and IDs
         var topOtuIds = otuIds[0].slice(0, 10).reverse();
         var topOtuLabels = otuLabels[0].slice(0, 10).reverse();
         var topSampleValues = sampleValues[0].slice(0, 10).reverse();
 
-        // use the map function to store the IDs with "OTU" for labelling y-axis
+        // use the map function to store the IDs with "OTU" for labeling y-axis
         var topOtuIdsFormatted = topOtuIds.map(otuID => "OTU " + otuID);
 
         // Plot bar chart
@@ -211,7 +211,6 @@ function optionChanged(id) {
 
     // Plot charts for user input ID
     plotCharts(id);
-
 
 }
 
