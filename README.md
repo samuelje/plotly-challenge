@@ -12,19 +12,19 @@ All JS, CSS, and images required for this assignment are located in the `static`
 
 ## Demographics and Dropdown
 
-  ![Demographics and Dropdown](static/images/DemographicsDropDown.png)
+  ![Demographics and Dropdown](static/images/DemographicsDropDown.PNG)
 
 ## Bar Chart
 
-  ![Bar Chart](static/images/BarChart.png)
+  ![Bar Chart](static/images/BarChart.PNG)
 
 ## Bubble Chart
 
-  ![Bubble Chart](static/images/BubbleChart.png)
+  ![Bubble Chart](static/images/BubbleChart.PNG)
 
 ## Dashboard
 
-  ![Dashboard](static/images/Dashboard.png)
+  ![Dashboard](static/images/Dashboard.PNG)
 
 ## Sources
 
